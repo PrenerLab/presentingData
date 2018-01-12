@@ -13,9 +13,11 @@
 export LC_TIME=en_US.UTF-8
 
 # GitHub username.
-USERNAME=slu-soc5650
+USERNAME=chris-prener
+# GitHub repo
+REPO=presentingData
 # Name of the branch containing the Hugo source files.
-SOURCE=source
+SOURCE=sources
 # The commit message.
 MESSAGE="Site rebuild $(date)"
 
@@ -25,7 +27,7 @@ msg() {
 
 msg "Pulling down the \`master\` branch into \`public\` to help avoid merge conflicts"
 git subtree pull --prefix=public \
-    https://github.com/$USERNAME/$USERNAME.github.io.git origin master -m "Merge origin master"
+    https://github.com/$USERNAME/$REPO.git origin master -m "Merge origin master"
 
 msg "Building the website"
 hugo
@@ -37,4 +39,4 @@ git push origin "$SOURCE"
 
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 git subtree push --prefix=public \
-    https://github.com/$USERNAME/$USERNAME.github.io.git master
+    https://github.com/$USERNAME/$REPO.git master

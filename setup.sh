@@ -11,9 +11,11 @@
 # on creating websites with blogdown, Hugo, and GitHub.
 
 # GitHub username
-USERNAME=slu-soc5650
+USERNAME=chris-prener
+# GitHub repo
+REPO=presentingData
 # Name of the branch containing the Hugo source files.
-SOURCE=source
+SOURCE=sources
 
 msg() {
     printf "\033[1;32m :: %s\n\033[0m" "$1"
@@ -45,7 +47,7 @@ git commit -m "Remove stale public folder"
 
 msg "Adding the new \`master\` branch as a subtree"
 git subtree add --prefix=public \
-    https://github.com/$USERNAME/$USERNAME.github.io.git master --squash
+    https://github.com/$USERNAME/$REPO.git master --squash
 
 # The following code was in the original file but generates an error:
 # fatal: refusing to merge unrelated histories
