@@ -44,7 +44,7 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; 2018 [CC-BY-SA 4.0](/license)",
+			"&copy; 2018 [CC-BY-SA 4.0](/presentingData/license)",
 			"Design: [HTML5 UP](//html5up.net)",
 			"Cover Image: [Victoria Palacios](https://unsplash.com/@toriamia?utm_medium=referral)"
 		]
@@ -68,19 +68,19 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Undergraduate Slides"
-			description = "Fall 2017 ([more](/undergrad))"
+			description = "Fall 2017 ([more](/presentingData/undergrad))"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Master's Slides"
-			description = "Fall 2017 ([more](/graduate))"
+			description = "Fall 2017 ([more](/presentingData/graduate))"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
 			title = "Sequoia Keynote Theme"
-			description = "Theme used for most of my teaching and presenting ([more](/sequoia))"
+			description = "Theme used for most of my teaching and presenting ([more](/presentingData/sequoia))"
 
 	[params.recentposts]
 		hide  = true
