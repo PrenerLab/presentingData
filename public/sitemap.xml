@@ -2,81 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/presentingData/undergrad/</loc>
+    <loc>https://chris-prener.github.io/presentingData/undergrad/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/graduate/</loc>
+    <loc>https://chris-prener.github.io/presentingData/graduate/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/resources/</loc>
+    <loc>https://chris-prener.github.io/presentingData/resources/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/sequoia/</loc>
+    <loc>https://chris-prener.github.io/presentingData/sequoia/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/license/</loc>
+    <loc>https://chris-prener.github.io/presentingData/license/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/post/migrate-from-jekyll/</loc>
+    <loc>https://chris-prener.github.io/presentingData/post/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/post/go-is-for-lovers/</loc>
+    <loc>https://chris-prener.github.io/presentingData/post/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/post/hugo-is-for-lovers/</loc>
+    <loc>https://chris-prener.github.io/presentingData/post/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/post/creating-a-new-theme/</loc>
+    <loc>https://chris-prener.github.io/presentingData/post/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/presentingData/categories/</loc>
+    <loc>https://chris-prener.github.io/presentingData/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/presentingData/categories/ipsum/</loc>
+    <loc>https://chris-prener.github.io/presentingData/categories/ipsum/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/presentingData/categories/lorem/</loc>
+    <loc>https://chris-prener.github.io/presentingData/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/presentingData/post/</loc>
+    <loc>https://chris-prener.github.io/presentingData/post/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/presentingData/</loc>
+    <loc>https://chris-prener.github.io/presentingData/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/presentingData/tags/</loc>
+    <loc>https://chris-prener.github.io/presentingData/tags/</loc>
     <priority>0</priority>
   </url>
   

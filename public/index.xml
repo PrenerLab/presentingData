@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presenting Data</title>
-    <link>/presentingData/</link>
+    <link>https://chris-prener.github.io/presentingData/</link>
     <description>Recent content on Presenting Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/presentingData/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-prener.github.io/presentingData/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Undergraduate Slides</title>
-      <link>/presentingData/undergrad/</link>
+      <link>https://chris-prener.github.io/presentingData/undergrad/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/undergrad/</guid>
+      <guid>https://chris-prener.github.io/presentingData/undergrad/</guid>
       <description>Lorem Ipsum</description>
     </item>
     
     <item>
       <title>Master&#39;s Slides</title>
-      <link>/presentingData/graduate/</link>
+      <link>https://chris-prener.github.io/presentingData/graduate/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/graduate/</guid>
+      <guid>https://chris-prener.github.io/presentingData/graduate/</guid>
       <description>Lorem Ipsum</description>
     </item>
     
     <item>
       <title>Presentation Resources</title>
-      <link>/presentingData/resources/</link>
+      <link>https://chris-prener.github.io/presentingData/resources/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/resources/</guid>
+      <guid>https://chris-prener.github.io/presentingData/resources/</guid>
       <description>Lorem Ipsum</description>
     </item>
     
     <item>
       <title>Sequoia Template</title>
-      <link>/presentingData/sequoia/</link>
+      <link>https://chris-prener.github.io/presentingData/sequoia/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/sequoia/</guid>
+      <guid>https://chris-prener.github.io/presentingData/sequoia/</guid>
       <description>Lorem Ipsum</description>
     </item>
     
     <item>
       <title>License</title>
-      <link>/presentingData/license/</link>
+      <link>https://chris-prener.github.io/presentingData/license/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/license/</guid>
+      <guid>https://chris-prener.github.io/presentingData/license/</guid>
       <description>Copyright &amp;copy; 2016-2018 Christopher G. Prener
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 This is a human-readable summary of (and not a substitute for) the license.
@@ -62,10 +62,10 @@ You are free to:
     
     <item>
       <title>Migrate from Jekyll</title>
-      <link>/presentingData/post/migrate-from-jekyll/</link>
+      <link>https://chris-prener.github.io/presentingData/post/migrate-from-jekyll/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>/presentingData/post/migrate-from-jekyll/</guid>
+      <guid>https://chris-prener.github.io/presentingData/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
@@ -73,20 +73,20 @@ You are free to:
     
     <item>
       <title>Go is for lovers</title>
-      <link>/presentingData/post/go-is-for-lovers/</link>
+      <link>https://chris-prener.github.io/presentingData/post/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>/presentingData/post/go-is-for-lovers/</guid>
+      <guid>https://chris-prener.github.io/presentingData/post/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Hugo is for lovers</title>
-      <link>/presentingData/post/hugo-is-for-lovers/</link>
+      <link>https://chris-prener.github.io/presentingData/post/hugo-is-for-lovers/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>/presentingData/post/hugo-is-for-lovers/</guid>
+      <guid>https://chris-prener.github.io/presentingData/post/hugo-is-for-lovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -97,10 +97,10 @@ Follow the following steps:
     
     <item>
       <title>Creating a new theme</title>
-      <link>/presentingData/post/creating-a-new-theme/</link>
+      <link>https://chris-prener.github.io/presentingData/post/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>/presentingData/post/creating-a-new-theme/</guid>
+      <guid>https://chris-prener.github.io/presentingData/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
