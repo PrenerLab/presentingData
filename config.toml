@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Christopher Prener"
-	description = "An Presenting for the Social Sciences"
+	description = "A Presentation Style Guide for the Social Sciences"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
