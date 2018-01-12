@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Presenting Data</title>
-    <link>/presentingData/post/</link>
-    <description>Recent content in Posts on Presenting Data</description>
+    <title>Design on Presenting Data</title>
+    <link>/presentingData/categories/design/</link>
+    <description>Recent content in Design on Presenting Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/presentingData/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/presentingData/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
