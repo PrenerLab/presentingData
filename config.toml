@@ -129,6 +129,11 @@ paginate = 10
 	name = "sequoia template"
 	url  = "/sequoia"
 	weight = 23
+
+[[menu.main]]
+	name = "credits"
+	url  = "/credits"
+	weight = 44
 	
 [[menu.main]]
 	name = "license"
