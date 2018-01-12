@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://chris-prener.github.io/presentingData/"
 languageCode = "en-us"
 title = "Presenting Data"
 theme = "hugo-strata-theme"
