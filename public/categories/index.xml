@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Presenting Data</title>
-    <link>/presentingData/categories/</link>
+    <link>https://chris-prener.github.io/presentingData/categories/</link>
     <description>Recent content in Categories on Presenting Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/presentingData/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chris-prener.github.io/presentingData/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Design</title>
-      <link>/presentingData/categories/design/</link>
+      <link>https://chris-prener.github.io/presentingData/categories/design/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/categories/design/</guid>
+      <guid>https://chris-prener.github.io/presentingData/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/presentingData/categories/news/</link>
+      <link>https://chris-prener.github.io/presentingData/categories/news/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/presentingData/categories/news/</guid>
+      <guid>https://chris-prener.github.io/presentingData/categories/news/</guid>
       <description></description>
     </item>
     
