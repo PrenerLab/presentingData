@@ -1,6 +1,6 @@
 baseurl = "https://chris-prener.github.io/"
 languageCode = "en-us"
-title = "Strata"
+title = "Presenting Data"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
@@ -11,8 +11,8 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Presenting Data"
-	description = "Describe your website"
+	name = "Christopher Prener"
+	description = "An Presenting for the Social Sciences"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -30,9 +30,9 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = ""
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**Sequoia**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
+		bio = "**presenting data** </br>a presentation style guide </br>for social science students"
 		# The icons will be shown if you enter your username
 		twitter = "chrisprener"
 		github = "chris-prener"
@@ -44,21 +44,23 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; Christopher Prener",
+			"&copy; [Christopher Prener](https://chris-prener.github.io)",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Cover Image: [Unsplash](//unsplash.com/)"
+			"Cover Image: [Victoria Palacios](https://unsplash.com/@toriamia?utm_medium=referral)"
 		]
 
+  [params.avatar]
+    hide = true
 
 	[params.about]
 		hide  = false
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "motivation"
+		content = "Each year, I speak with both undergraduate and Master's students in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/) on presenting research. Presenting research, whether it is a capstone project, a Master's thesis, or a guest lecture, can be daunting for students. My goal is to help students develop skills for high quality, effective presentations. This site catalogues material related to both my undergraduate and graduate 'presentations on presentations' and provides resources for students on presentation design."
 
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "primary resources"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -100,51 +102,20 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "recent articles"
 
 	[params.contact]
 		hide  = true
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
-
-		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
-		address = [
-			"1234 Somewhere Rd.",
-			"Nashville, TN 00000",
-			"United States"
-		]
-		phone = "000-000-0000"
-
-		# Since this template is static, the contact form uses www.formspree.io as a
-		# proxy. The form makes a POST request to their servers to send the actual
-		# email. Visitors can send up to a 1000 emails each month for free.
-	    #
-	    # What you need to do for the setup?
-	    #
-	    # - set your email address under 'email' below
-	    # - upload the generated site to your server
-	    # - send a dummy email yourself to confirm your account
-	    # - click the confirm link in the email from www.formspree.io
-	    # - you're done. Happy mailing!
-		email = "hello@example.com"
-
-		[params.contact.form]
-			# Set custom strings for the form if your native
-			# language isn't English
-			name = "Name"
-			email = "Email"
-			message = "Message"
-			submit = "Send message"
+		email = "chris.prener@slu.edu"
 
 
 # Menu links that appear on the left sidebar
 [[menu.main]]
-	name = "Home"
+	name = "home"
 	url  = "/"
 	weight = 10
 
 [[menu.main]]
-	name = "Blog"
+	name = "articles"
 	url  = "post/"
 	weight = 0
