@@ -1,4 +1,4 @@
-baseurl = "https://chris-prener.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Presenting Data"
 theme = "hugo-strata-theme"
@@ -44,7 +44,7 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; [Christopher Prener](https://chris-prener.github.io)",
+			"&copy; 2018 [CC-BY-SA 4.0](/license)",
 			"Design: [HTML5 UP](//html5up.net)",
 			"Cover Image: [Victoria Palacios](https://unsplash.com/@toriamia?utm_medium=referral)"
 		]
@@ -55,7 +55,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "motivation"
-		content = "Each year, I speak with both undergraduate and Master's students in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/) on presenting research. Presenting research, whether it is a capstone project, a Master's thesis, or a guest lecture, can be daunting for students. My goal is to help students develop skills for high quality, effective presentations. This site catalogues material related to both my undergraduate and graduate 'presentations on presentations' and provides resources for students on presentation design."
+		content = "Each year, I speak with both undergraduate and Master's students in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/) on presenting research. Public presentations, whether it is a capstone project, a Master's thesis, or a guest lecture, can be daunting for students. My goal is to help students develop skills for high quality, effective presentations. This site catalogues material related to both my undergraduate and graduate 'presentations on presentations' and provides resources for students on presentation design."
 
 
 	[params.portfolio]
@@ -67,41 +67,23 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Undergraduate Slides"
+			description = "Fall 2017 ([more](/undergrad))"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Master's Slides"
+			description = "Fall 2017 ([more](/graduate))"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
-
-		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			title = "Sequoia Keynote Theme"
+			description = "Theme used for most of my teaching and presenting ([more](/sequoia))"
 
 	[params.recentposts]
-		hide  = false
+		hide  = true
 		title = "recent articles"
 
 	[params.contact]
@@ -118,4 +100,24 @@ paginate = 10
 [[menu.main]]
 	name = "articles"
 	url  = "post/"
-	weight = 0
+	weight = 12
+
+[[menu.main]]
+	name = "undergraduate slides"
+	url  = "/undergrad"
+	weight = 20
+	
+[[menu.main]]
+	name = "master's slides"
+	url  = "/graduate"
+	weight = 21
+
+[[menu.main]]
+	name = "sequoia template"
+	url  = "/sequoia"
+	weight = 22
+	
+[[menu.main]]
+	name = "license"
+	url  = "/license"
+	weight = 45
