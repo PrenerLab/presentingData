@@ -42,11 +42,13 @@ paginate = 10
 		googleplus = ""
 		flickr = ""
 		linkedin = ""
+		# homepage url
+		home="https://chris-prener.github.io/"
 
 		copyright = [
 			"&copy; 2018 [CC-BY-SA 4.0](/presentingData/license)",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Cover Image: [Victoria Palacios](https://unsplash.com/@toriamia?utm_medium=referral)"
+			"Cover Image: [M. Alizade](https://unsplash.com/@mohamadaz?utm_medium=referral)"
 		]
 
   [params.avatar]
@@ -55,7 +57,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "motivation"
-		content = "Each year, I speak with both undergraduate and Master's students in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/) on presenting research. Public presentations, whether it is a capstone project, a Master's thesis, or a guest lecture, can be daunting for students. My goal is to help students develop skills for high quality, effective presentations. This site catalogues material related to both my undergraduate and graduate 'presentations on presentations' and provides resources for students on presentation design."
+		content = "Each year, I speak with both undergraduate and Master's students in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/) on presenting research. A public presentation, whether it is a capstone project, a Master's thesis, or a guest lecture, can be daunting for students. My goal is to help students develop skills for high quality, effective presentations. This site catalogues material related to both my undergraduate and graduate 'presentations on presentations' and provides resources for students on presentation design."
 
 
 	[params.portfolio]
@@ -68,17 +70,23 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Undergraduate Slides"
-			description = "Fall 2017 ([more](/presentingData/undergrad))"
+			description = "Fall 2017 Capstone Course Presentation ([more](/presentingData/undergrad))"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Master's Slides"
-			description = "Fall 2017 ([more](/presentingData/graduate))"
+			description = "Fall 2017 Pro-Seminar Presentation ([more](/presentingData/graduate))"
 
-		[[params.portfolio.gallery]]
+    [[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
+			title = "Presentation Resources"
+			description = "Articles and tools referenced in slides ([more](/presentingData/resources))"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/04.jpg"
+			thumb = "thumbs/04.jpg"
 			title = "Sequoia Keynote Theme"
 			description = "Theme used for most of my teaching and presenting ([more](/presentingData/sequoia))"
 
@@ -113,9 +121,14 @@ paginate = 10
 	weight = 21
 
 [[menu.main]]
+	name = "presentation resources"
+	url  = "/resources"
+	weight = 22
+
+[[menu.main]]
 	name = "sequoia template"
 	url  = "/sequoia"
-	weight = 22
+	weight = 23
 	
 [[menu.main]]
 	name = "license"
