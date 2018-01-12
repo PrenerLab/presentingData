@@ -91,7 +91,7 @@ paginate = 10
 			description = "Theme used for most of my teaching and presenting ([more](/presentingData/sequoia))"
 
 	[params.recentposts]
-		hide  = true
+		hide  = false
 		title = "recent articles"
 
 	[params.contact]

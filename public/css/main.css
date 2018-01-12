@@ -3155,3 +3155,8 @@
 	 font-size: 20px;
 	 line-height: 36px;
  }
+
+.fa-comment-alt {
+  color: #bf6249;
+  margin-left: .3em;
+}

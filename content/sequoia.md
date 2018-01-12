@@ -4,4 +4,4 @@ title: Sequoia Template
 weight: 23
 ---
 
-Lorem Ipsum 
+I am working on a release of an updated version of my Sequoia theme for Apple Keynote. In the meantime, my original Sequoia theme can be found on [GitHub](https://github.com/chris-prener/sequoia_templates).
