@@ -1,5 +1,5 @@
 ---
-date: 2018-01-12
+date: 2018-03-20
 title: Presentation Resources
 weight: 22
 ---
@@ -11,11 +11,11 @@ During both my [undergraduate](/presentingData/undergrad) and [Master's](/presen
   1. Presentations Can Be Painful
     - [The Bachrach Photo](https://commons.wikimedia.org/wiki/File:Crowd_of_citizens,_soldiers,_and_etc._with_Lincoln_at_Gettysburg._-_NARA_-_529085.jpg) - [David Bachrach](https://en.wikipedia.org/wiki/David_Bachrach) <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
     - [Gettysburg Address PowerPoint Presentations](http://norvig.com/Gettysburg/) - [Peter Norvig](http://www.norvig.com) <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
-
-  2. Design Matters
     - [Edward Tufte](https://en.wikipedia.org/wiki/Edward_Tufte) - wikipedia <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
     - [Edward Tufte](https://www.edwardtufte.com/tufte/) - personal site <i class="far fa-comment-alt"></i>
     - [Edward Tufte](http://libcat.slu.edu/search~S5/a?Tufte%2C+Edward+R.%2C+1942-&search_code=a) - Pius Library records <i class="far fa-comment-alt"></i>
+
+  2. Design Matters
     - [Paul Rand](https://en.wikipedia.org/wiki/Paul_Rand) - wikipedia <i class="far fa-comment-alt"></i>
     - [Paul Rand, the Visionary Who Showed Us That Design Matters](https://www.wired.com/2015/04/paul-rand-visionary-showed-us-design-matters/) <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
     - [Sequoia Keynote Themes](https://github.com/chris-prener/sequoia_templates) <i class="far fa-comment-alt"></i>
@@ -31,7 +31,9 @@ During both my [undergraduate](/presentingData/undergrad) and [Master's](/presen
   
   3. Focus on Content
     - [Copyright Crash Course](http://guides.lib.utexas.edu/copyright) - University of Texas at Austin <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
+    - [Copyright and Fair Use](https://fairuse.stanford.edu) - Stanford University Libraries <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
     - [The Ultimate Guide to Finding Free, Legal Images Online](http://www.macworld.com/article/2899637/the-ultimate-guide-to-finding-free-legal-images-online.html) <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
+    - [Unsplash](https://unsplash.com) - free stock photography <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
     - [Chartjunk](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00040Z) - [Edward Tufte](https://www.edwardtufte.com/tufte/)<i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
     - [Ye Olde Pie Chart Debate](https://eagereyes.org/blog/2015/ye-olde-pie-chart-debate) - [Robert Kosara](https://eagereyes.org) <i class="far fa-comment-alt"></i>
     - [Understanding Pie Charts](https://eagereyes.org/techniques/pie-charts) - [Robert Kosara](https://eagereyes.org) <i class="far fa-comment-alt"></i>

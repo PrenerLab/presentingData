@@ -70,7 +70,7 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Undergraduate Slides"
-			description = "Fall 2017 Capstone Course Presentation ([more](/presentingData/undergrad))"
+			description = "Spring 2018 Capstone Course Presentation ([more](/presentingData/undergrad))"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"

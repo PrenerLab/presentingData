@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/undergrad/</loc>
+    <loc>/presentingData/undergrad/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/presentingData/graduate/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/graduate/</loc>
+    <loc>/presentingData/resources/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/presentingData/sequoia/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/resources/</loc>
+    <loc>/presentingData/credits/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/sequoia/</loc>
+    <loc>/presentingData/license/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/credits/</loc>
+    <loc>/presentingData/post/welcome/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/license/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chris-prener.github.io/presentingData/post/welcome/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://chris-prener.github.io/presentingData/categories/</loc>
+    <loc>/presentingData/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/categories/design/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://chris-prener.github.io/presentingData/categories/news/</loc>
+    <loc>/presentingData/categories/design/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/post/</loc>
+    <loc>/presentingData/categories/news/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/</loc>
+    <loc>/presentingData/post/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chris-prener.github.io/presentingData/tags/</loc>
+    <loc>/presentingData/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/presentingData/tags/</loc>
     <priority>0</priority>
   </url>
   
