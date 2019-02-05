@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design on Presenting Data</title>
-    <link>https://chris-prener.github.io/presentingData/categories/design/</link>
+    <link>/presentingData/categories/design/</link>
     <description>Recent content in Design on Presenting Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chris-prener.github.io/presentingData/categories/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/presentingData/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Short Manifesto</title>
-      <link>https://chris-prener.github.io/presentingData/post/welcome/</link>
+      <link>/presentingData/post/welcome/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/post/welcome/</guid>
+      <guid>/presentingData/post/welcome/</guid>
       <description>As I noted on the homepage, I get to teach both undergraduate and graduate students in Sociology at Saint Louis University about presenting their research each semester. Most of my courses also require some type of presentation, though only one utilizes PowerPoint. What I&amp;rsquo;ve learned in talking to students about the most effective ways for them to present their work is that they have had precious little guidance in how to do so.</description>
     </item>
     

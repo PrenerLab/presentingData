@@ -48,7 +48,9 @@ During both my [undergraduate](/presentingData/undergrad) and [Master's](/presen
     - [Presentation Zen: How to Design and Deliver Presentations Like a Pro](http://www.garrreynolds.com/Presentation/pdf/presentation_tips.pdf) - [Garr Reynolds](http://www.garrreynolds.com) <i class="fas fa-comment-alt"></i> <i class="far fa-comment-alt"></i>
   
   5. Presentation Tools
+    - [Windows Fonts](https://docs.microsoft.com/en-us/typography/fonts/windows_10_font_list) <i class="fas fa-comment-alt"></i>
     - [Pixelmator](http://www.pixelmator.com/mac/) <i class="far fa-comment-alt"></i>
     - [OmniGraffle](https://www.omnigroup.com/omnigraffle) <i class="far fa-comment-alt"></i>
     - [RStudio](https://www.rstudio.com) <i class="far fa-comment-alt"></i>
     - [`ggplot2`](http://ggplot2.org) <i class="far fa-comment-alt"></i>
+    
