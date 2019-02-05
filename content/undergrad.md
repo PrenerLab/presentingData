@@ -1,5 +1,5 @@
 ---
-date: 2018-03-20
+date: 2019-02-05
 title: Undergraduate Slides
 weight: 20
 ---
@@ -9,4 +9,4 @@ weight: 20
 
 </br>
 ## Notes
-This version of my 'presentation on presentations' was given to our undergraduate capstone students during the Fall 2017 semester. The focus is less heavily oriented towards design and more towards fundamentals of presenting academic work. This presentation is part of the preparation process for seniors graduating with Bachelor's degrees in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/).
+This version of my 'presentation on presentations' was given to our undergraduate capstone students during the Spring 2019 semester. The focus is less heavily oriented towards design and more towards fundamentals of presenting academic work. This presentation is part of the preparation process for seniors graduating with Bachelor's degrees in [Sociology](https://www.slu.edu/arts-and-sciences/sociology-anthropology) at [Saint Louis University](https://www.slu.edu/).
