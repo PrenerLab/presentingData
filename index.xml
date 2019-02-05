@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presenting Data</title>
-    <link>https://chris-prener.github.io/presentingData/</link>
+    <link>/presentingData/</link>
     <description>Recent content on Presenting Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://chris-prener.github.io/presentingData/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/presentingData/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Undergraduate Slides</title>
-      <link>https://chris-prener.github.io/presentingData/undergrad/</link>
+      <link>/presentingData/undergrad/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/undergrad/</guid>
+      <guid>/presentingData/undergrad/</guid>
       <description>Slides  
 Notes This version of my &amp;lsquo;presentation on presentations&amp;rsquo; was given to our undergraduate capstone students during the Fall 2017 semester. The focus is less heavily oriented towards design and more towards fundamentals of presenting academic work. This presentation is part of the preparation process for seniors graduating with Bachelor&amp;rsquo;s degrees in Sociology at Saint Louis University.</description>
     </item>
     
     <item>
       <title>Master&#39;s Slides</title>
-      <link>https://chris-prener.github.io/presentingData/graduate/</link>
+      <link>/presentingData/graduate/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/graduate/</guid>
+      <guid>/presentingData/graduate/</guid>
       <description>Slides  
 Notes This version of my &amp;lsquo;presentation on presentations&amp;rsquo; was given to our graduate students during the Fall 2017 semester as they prepared for their guest lectures in our undergraduate courses. The focus is more heavily oriented towards design than my undergraduate presentation. This presentation is part of the pro-seminar course for Master&amp;rsquo;s students in Sociology at Saint Louis University.</description>
     </item>
     
     <item>
       <title>Presentation Resources</title>
-      <link>https://chris-prener.github.io/presentingData/resources/</link>
+      <link>/presentingData/resources/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/resources/</guid>
+      <guid>/presentingData/resources/</guid>
       <description>Resources from Slides During both my undergraduate and Master&amp;rsquo;s presentations, I make reference to a variety of concepts, tools, and people. Below are some additional links that go deeper on those references. A  icon indicates that this is discussed in the undergraduate presentation while a  icon indicates that this is discussed in the graduate presentation.
 Notes and Resources  Presentations Can Be Painful
  The Bachrach Photo - David Bachrach   Gettysburg Address PowerPoint Presentations - Peter Norvig   Edward Tufte - wikipedia   Edward Tufte - personal site  Edward Tufte - Pius Library records   Design Matters</description>
@@ -44,19 +44,19 @@ Notes and Resources  Presentations Can Be Painful
     
     <item>
       <title>Sequoia Template</title>
-      <link>https://chris-prener.github.io/presentingData/sequoia/</link>
+      <link>/presentingData/sequoia/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/sequoia/</guid>
+      <guid>/presentingData/sequoia/</guid>
       <description>I am working on a release of an updated version of my Sequoia theme for Apple Keynote. In the meantime, my original Sequoia theme can be found on GitHub.</description>
     </item>
     
     <item>
       <title>Credits</title>
-      <link>https://chris-prener.github.io/presentingData/credits/</link>
+      <link>/presentingData/credits/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/credits/</guid>
+      <guid>/presentingData/credits/</guid>
       <description> This website is built with the R package Blogdown and Hugo using a fork of the Strata theme.
 Photo credits All stock imagery used on this site is sourced from Unsplash.
  Cover photo by Mohammad Alizade Undergrad presentation photo by Edwin Andrade Master&amp;rsquo;s presentation photo by Glenn Carstens-Peters Presentation resources photo by Patrik Göthe Sequoia photo by Victoria Palacios  </description>
@@ -64,10 +64,10 @@ Photo credits All stock imagery used on this site is sourced from Unsplash.
     
     <item>
       <title>License</title>
-      <link>https://chris-prener.github.io/presentingData/license/</link>
+      <link>/presentingData/license/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/license/</guid>
+      <guid>/presentingData/license/</guid>
       <description>Copyright &amp;copy; 2016-2018 Christopher G. Prener
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 This is a human-readable summary of (and not a substitute for) the license.
@@ -77,10 +77,10 @@ You are free to:
     
     <item>
       <title>A Short Manifesto</title>
-      <link>https://chris-prener.github.io/presentingData/post/welcome/</link>
+      <link>/presentingData/post/welcome/</link>
       <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://chris-prener.github.io/presentingData/post/welcome/</guid>
+      <guid>/presentingData/post/welcome/</guid>
       <description>As I noted on the homepage, I get to teach both undergraduate and graduate students in Sociology at Saint Louis University about presenting their research each semester. Most of my courses also require some type of presentation, though only one utilizes PowerPoint. What I&amp;rsquo;ve learned in talking to students about the most effective ways for them to present their work is that they have had precious little guidance in how to do so.</description>
     </item>
     
